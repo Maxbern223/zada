@@ -1,0 +1,3 @@
+echo "fastapi
+uvicorn
+requests" > requirements.txt
